@@ -1,2 +1,0 @@
-# pwshell
-Powershell Scripts
